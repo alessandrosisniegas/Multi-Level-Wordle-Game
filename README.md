@@ -1,7 +1,6 @@
 # Multi-Level-Wordle-Game
 <div align="center">
 <img src="https://user-images.githubusercontent.com/113214527/192133248-859a3b69-ca28-4381-9dc4-3b03b2747cdb.gif"/>
-
 </div>
 
 Terminal based roshambo game with unique sequences and algorithms in C++ with interactive and score-keeping implementations
